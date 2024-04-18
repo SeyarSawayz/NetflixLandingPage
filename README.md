@@ -1,5 +1,5 @@
 LIVE RREVIEW:
-https://netflixlandingpagebyseyar.netlify.app/
+https://streamscapes.netlify.app/
 
 Screenshot
 
